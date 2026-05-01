@@ -186,7 +186,7 @@ Build a web app where:
 2.  Open the terminal.
 3.  Run:
 ```
-npm init -y\
+npm init -y
 npm install express openai dotenv cors
 ```
 1.  Create a `.env` file:
